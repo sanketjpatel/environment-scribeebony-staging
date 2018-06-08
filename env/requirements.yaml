@@ -13,3 +13,6 @@ dependencies:
 - name: node-http
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.7
+- name: test-org
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.4
